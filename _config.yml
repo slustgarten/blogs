@@ -1,14 +1,14 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Saul
+url: slustgarten.github.io
+title: Saul's blog
+description: Saul's random notes and thoughts
 twitter:
-  username: #yourusername
+  username: #slustgarten
   card: summary
   creator: #yourusername
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: @slustgarten
+  name: saul lustgarten
   avatar:
   email: #youremail
   url: #yoururl
