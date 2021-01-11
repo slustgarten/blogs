@@ -78,12 +78,12 @@ The upside of stress argues that embracing stress is a healthier approach than a
 - Challenge response is what you feel in flow mode. It increases self confidence, motivates action and helps learn from experience. Different from fight or flight because you are able to focus.
 - Tend and befriend response increases courage, motivates caregiving and strengthens social relationships.
 - Biology of stress
-- Stress it gives you the energy you need to rise to the challenge.
-	- cortisol and adrenaline help muscle and brain use energy more efficiently
-	- Can give you extraordinary physical ability. Brain stops mind wandering. Concentrated attention
-	- Motivation boost from endorphins adrenaline testosterone and dopamine (this is why some people enjoy stress) the excite and delight side of stress
-	- If survival is at stake you might have flight or fight response
-	- Challenge response gives you energy and feel good chemicals but you feel focused not fearful. Different ratio of stress hormones gives higher growth index. This is flow state. Peak performance from stress.
+* Stress it gives you the energy you need to rise to the challenge.
+	* cortisol and adrenaline help muscle and brain use energy more efficiently
+	* Can give you extraordinary physical ability. Brain stops mind wandering. Concentrated attention
+	* Motivation boost from endorphins adrenaline testosterone and dopamine (this is why some people enjoy stress) the excite and delight side of stress
+	* If survival is at stake you might have flight or fight response
+	* Challenge response gives you energy and feel good chemicals but you feel focused not fearful. Different ratio of stress hormones gives higher growth index. This is flow state. Peak performance from stress.
 - Stress makes you social. Encourage connection
 	- oxytocin motivates you to connect with others, build and strengthens social bonds
 	- Makes u want to connect with others and also better to notice and understand what others are feeling
