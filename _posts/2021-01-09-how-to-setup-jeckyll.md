@@ -15,12 +15,20 @@ This is a Jeckyll blog hosted on Github pages.
 
 I followed instructions [here](https://jekyllrb.com/docs/installation/macos/)
 
+#### Install Ruby
+
 ``` 
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Install Ruby
 brew install ruby
+```
+
+#### Install Jeckyll
+
+```
+gem install --user-install bundler jekyll
 ```
 
 ### Select and customize theme

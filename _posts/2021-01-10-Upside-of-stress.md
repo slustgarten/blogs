@@ -79,7 +79,7 @@ The upside of stress argues that embracing stress is a healthier approach than a
 - Tend and befriend response increases courage, motivates caregiving and strengthens social relationships.
 - Biology of stress
 * Stress it gives you the energy you need to rise to the challenge.
-	* cortisol and adrenaline help muscle and brain use energy more efficiently
+    * cortisol and adrenaline help muscle and brain use energy more efficiently
 	* Can give you extraordinary physical ability. Brain stops mind wandering. Concentrated attention
 	* Motivation boost from endorphins adrenaline testosterone and dopamine (this is why some people enjoy stress) the excite and delight side of stress
 	* If survival is at stake you might have flight or fight response
