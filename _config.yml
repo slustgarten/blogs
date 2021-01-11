@@ -3,7 +3,7 @@ url: slustgarten.github.io
 title: Saul's blog
 description: Saul's random notes and thoughts
 twitter:
-  username: #slustgarten
+  username: slustgarten
   card: summary
   creator: #yourusername
 author:
@@ -16,7 +16,7 @@ permalink: pretty
 
 baseurl: ""
 
-highlighter: none
+highlighter: rouge
 
 exclude:
   - .jekyll-cache
