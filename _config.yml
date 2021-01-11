@@ -16,6 +16,9 @@ permalink: pretty
 
 baseurl: ""
 
+kramdown:  
+  parse_block_html: true
+
 highlighter: rouge
 
 exclude:
