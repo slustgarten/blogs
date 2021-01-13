@@ -39,6 +39,9 @@ gem install --user-install bundler jekyll
 - Testing nested lists
     * Nest 1
     
-1. Testing 1
-2. Testing 2
-   2. testing 2
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
