@@ -131,7 +131,6 @@ strong, b {
 
 .posts ul,header ul {
 	list-style:none;
-	list-style-position: inside;
 }
 
 .posts li {
@@ -155,7 +154,7 @@ strong, b {
 }
 
 .post ul, .project ul, .post ol  {
-	list-style-position: inside;
+	//list-style-position: inside;
 }
 
 main {
