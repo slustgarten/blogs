@@ -26,7 +26,7 @@ The upside of stress argues that embracing stress is a healthier approach than a
 - Stress is a catch all word. 
 - In the book it is defined as: Stress is what arises when something you care about is at stake.
 
-## Part 1 - rethink stress
+## Part 1 - Rethink stress
 ---- 
 
 ### Chapter 1 - How to change your mind about stress
