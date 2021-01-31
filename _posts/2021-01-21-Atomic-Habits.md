@@ -23,17 +23,53 @@ My main takeaways from the book are:
 - If you want to get rid of a habit, make it invisible. Don't rely on self-control. Remove the temptation, avoid exposure to the cue that causes it. 
 
 ### If you want to adopt a behavior, make it attractive
+- Habits are a dopamine-driven feedback loop. Anticipation of the reward is what gets us to take action. When dopamine rises, so does our motivation. 
+- Temptation bundling is a strategy to make habits more attractive: pair an action you *want* to do with an action you *need* to do.
+- Join a culture where your desired behavior is the normal behavior. It is more effective if you already have something in common with the group. 
+  - If a hebavior gets us approval, respect, and praise, we find it attractive.
+- Create a motivation ritual by doing something you enjoy immediately before a difficult habit.
+- To change a behavior you can make it unattractive. Highlight the benefits of avoiding a bad habit by making it seem unattractive.
+
+### If you want to adopt a behavior, make it easy
+- Habit formation is process by which behavior becomes progressively more automativ through repetition. 
+- Amount of time you've been performing a habit is not as important as the number of times you've done it.
+- Behavior follows the law of least effort, We gravitate toward the option that requires least amount of work.
+- Reduce friction for good behaviors, and increase it for bad ones.
+- Prime your environment to make future actions easier (ie keep healthy snacks around, don't buy unhealthy ones, etc)
+- Start small: When you start a new habit it should take less than 2 minutes to do.
+- Standardize a habit before you optimize it (you can't improve something that doesn't exists).
+- The more you ritualize the beginning of a process, the more likely it becomes that you can slip into deep focus.
+- Use commitment devices to lock better behavior in the future. For example, give money to a cause you despise to keep you honest.
+- Ultimate way to lock future behavior is by automating you habits. Invest in tech and one time purchases that lock in future behavior (for example, buy a better mattress to sleep better).
+
+### If you want a habit to stick, make it satisfying
+- We're more likely to repeat behaviors is the experience is satisfying.
+- What is immediately rewarded is repeated. What is immediately punished, is avoided.
+- To get a habit to stick, you need to feel succesful (even if on a small way).
+- Feeling of making progress is one of the most satisfying feelins. 
+- Habit trackers and other visual forms of measurement can be a good way to leverage this insight to foster a good habit.
+  - Don't break the chain. Seinfeld keeps on writing by marking an X on a calendar for every day he writes a joke. He is motivated by avoiding to break the chain.
+- Never miss twice. If you miss one day of a habit, get back on it as soon as possible.
+- If you want to break a behavior, make it unsatisfying. 
+  - Accountability partners can create an immediate cost to inaction. 
+  - Habit contracts can be used to add a social cost to any behavior. It makes the cost of breaking a promise public and painful. 
+  - Knowing someone is watching you can be a powerful motivator.
+
+### Some additional tips
+- As habits become routine, they become less interesting and less satisfying - we get bored. 
+- Boredom is ultimately the threat to success because we lose our motivation to work hard.
+- Professionals stick to a schedule. Amateurs let life get in the way.
+- Habits + Deliberate practice = mastery
 
 
-I found the book to be a good compilation on the research and stories around the science of habit, with good tips and techniques. The book is written in a way that makes it easy to digest and skim, with good summaries after every chapter, so I encourage you to read it if you're interested in self-improvement and developing good habits.
+I found the book to be a good compilation on the research and stories around the science of habit, with good tips and techniques. The book is written in a way that makes it easy to digest and skim, with good summaries after every chapter, so I encourage you to read it if you're interested in behavior change (I think it's relevant for self-improvement, but it can also be leveraged if you work on product or marketing). It's a good companion to Duhigg's book, which focuses more on the science rather than habit hacks. 
 
-Below are the raw unedited notes in case you want to take a sneak peek. 
+Below are the raw unedited notes in case you want to take a sneak peek.... 
 
 ------- 
 
-#### NOTES FROM
-An Easy & Proven Way to Build Good Habits & Break Bad Ones
-James Clear
+#### NOTES FROM: An Easy & Proven Way to Build Good Habits & Break Bad Ones, by James Clear
+
 January 10, 2021
 Introduction: My Story, p. 7
 I had felt like an impostor when I began writing two years earlier, but now I was becoming known as an expert on habits—a new label that excited me but also felt uncomfortable
