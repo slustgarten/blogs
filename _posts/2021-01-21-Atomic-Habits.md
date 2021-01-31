@@ -7,11 +7,11 @@ comments: false
 tags: [habits, self-improvement]
 ---
 
-I'd been hesitant to read this book for a while as I thought it would be redundant with Charles Duhigg's "The Power of Habit". 
+I'd been hesitant to read Atomic Habits for a while as I thought it would be redundant with Charles Duhigg's "The Power of Habit".
 
-Even thought there are certainly overlaps, Atomic Habits is much more tactical with a focus on helping you change your habits. 
-My main takeaways from the book are:
+Even thought there are certainly overlaps, Atomic Habits is much more tactical with a focus on helping you change your habits. Below are my takeaways, followed by the raw highlight export from the book:
 
+### To develop good habits, you must be aware of your existing ones
 - Systems > Goals: I originally read this on Scott Adams' "How to fail at everything and still win big" and love it. "You don't rise to the level of your goals. You fall to the level of your systems".
 - Be mindful of your habits. Once they develop we stop paying attention. Pointing and calling can raise your awareness from a non-concious habit to a concious one.
 
