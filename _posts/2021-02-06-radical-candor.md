@@ -27,8 +27,16 @@ I'm a sucker for 2x2 frameworks and found this one particularly helpful in that 
 
 ### Superstars vs Rockstars
 
-Another useful framework from the book is the superstar vs rockstar framework.
+Another useful framework from the book is the superstar vs rockstar framework. Superstars are people in a steep growth trajectory with incredible performance. Rockstars are people with great performance in a stable growth trajectory. We tend to think that we want a team full of superstars, but the book points out that you actually need a balance because rockstars are what give your team stability (they are your rocks). If you only have superstars, your team won't be stable - superstars will be coming and going.
 
-![Superstarts vs Rockstars](/assets/images/candor-performance.jpeg)(https://firstround.com/review/warning-this-is-not-your-grandfathers-talent-planning/?ct=t())
+In addition to being a useful model to staff your team, it's also useful for managing the talent within your team. If someone on your team is a superstar, make sure you're keeping them challenged by giving them growth opportunities. If you have rockstars, cherish them and don't force them to be superstars. If you have people underperforming but on a growth trajectory, look yourself in the mirror - maybe you put them in the wrong role, maybe you're not guiding them well enough. Lastly, if you have people in a declining growth path, it might just not be the best fit for them.
+
+![Superstarts vs Rockstars](/assets/images/candor-performance.jpeg)
 
 [Source](https://firstround.com/review/warning-this-is-not-your-grandfathers-talent-planning/?ct=t())
+
+One important caveat to keep in mind is that performance is not a permanent condition. You can be a rockstar today, and a superstar tomorrow, or vice versa. You can also be a low performer in a growth trajectory or declining trajectory in one role, but a rockstar in another one. Your job as a manager is ultimately to ask the right questions and be radically candid with your team to ensure they end up where they can shine the most and be happy.
+
+----
+
+### Book Highlights
