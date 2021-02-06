@@ -33,7 +33,7 @@ In addition to being a useful model to staff your team, it's also useful for man
 
 ![Superstarts vs Rockstars](/assets/images/candor-performance.jpeg)
 
-[Source](https://firstround.com/review/warning-this-is-not-your-grandfathers-talent-planning/?ct=t())
+[Source](https://firstround.com/review/warning-this-is-not-your-grandfathers-talent-planning/?ct=t)
 
 One important caveat to keep in mind is that performance is not a permanent condition. You can be a rockstar today, and a superstar tomorrow, or vice versa. You can also be a low performer in a growth trajectory or declining trajectory in one role, but a rockstar in another one. Your job as a manager is ultimately to ask the right questions and be radically candid with your team to ensure they end up where they can shine the most and be happy.
 
