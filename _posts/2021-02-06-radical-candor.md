@@ -15,7 +15,7 @@ The idea behind 'Radical Candor' as a management philosophy is that you give a d
 
 ![Radical Candor](/assets/images/radical-candor.jpeg)
 
-[Image source:](https://www.linkedin.com/pulse/responding-bias-radical-candor-cautionary-tale-kim-malone-scott/)
+[Source](https://www.linkedin.com/pulse/responding-bias-radical-candor-cautionary-tale-kim-malone-scott/)
 
 The framework is pretty straightforward. It categorizes feedback along 2 dimensions - (1) caring, and (2) challenging. Caring goes from not caring to caring personally, and challenging goes from not challenging to being upfront about it. The book argues that caring personally and challenging directly is where you want to be at (this is **"Radical Candor"**). This means being transparent with people, telling them where they can grow, how they can improve, and helping them get there, and doing it from a good place.
 
@@ -29,6 +29,6 @@ I'm a sucker for 2x2 frameworks and found this one particularly helpful in that 
 
 Another useful framework from the book is the superstar vs rockstar framework.
 
-![Superstarts vs Rockstars](/assets/images/candor-performance.jpeg)
+![Superstarts vs Rockstars](/assets/images/candor-performance.jpeg)(https://firstround.com/review/warning-this-is-not-your-grandfathers-talent-planning/?ct=t())
 
 [Source](https://firstround.com/review/warning-this-is-not-your-grandfathers-talent-planning/?ct=t())
