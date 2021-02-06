@@ -24,3 +24,11 @@ The second best you can do is to be **"obnoxiously aggressive"**. This means you
 **"Ruinous empathy"** is when you don't challenge someone because you don't want to hurt their feelings. This is ruinous because you're not doing them any favors, just robbing them of time they could use to get better. Lastly, you have **"manipulative insincerity"** which is the worst of all attitudes as you neither care nor challenge the person, you're just letting them rot.
 
 I'm a sucker for 2x2 frameworks and found this one particularly helpful in that it helps you caliber how you're approaching performance issues with people on your team and with yourself. It is also useful as a common framework for your team to be able to tell you if you're being an obnoxious asshole, if they feel it's radical candor, etc.
+
+### Superstars vs Rockstars
+
+Another useful framework from the book is the superstar vs rockstar framework.
+
+![Superstarts vs Rockstars](/assets/images/candor-performance.jpeg)
+
+[Source](https://firstround.com/review/warning-this-is-not-your-grandfathers-talent-planning/?ct=t())
