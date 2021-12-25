@@ -7,7 +7,7 @@ comments: true
 tags: [leadership]
 ---
 
-Some random thoughts on leadership inspired by Tony Soprano after my recent binge watching of the show:
+Some random thoughts on leadership, inspired by Tony Soprano after my recent binge watching of the show:
 
 1. It’s lonely at the top
 2. Being at the top is about making decisions
