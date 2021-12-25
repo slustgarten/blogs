@@ -7,7 +7,7 @@ comments: true
 tags: [leadership]
 ---
 
-I finally watched (binged is a better description) the Sopranos recently and totally fell for it. Tony Soprano, in particular, was a great character and I believe he has a lot of lessons on leadership.
+Some random thoughts on leadership inspired by Tony Soprano after my recent binge watching of the show:
 
 1. It’s lonely at the top
 2. Being at the top is about making decisions
