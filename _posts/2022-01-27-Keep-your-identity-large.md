@@ -7,7 +7,7 @@ comments: true
 tags: [rationality, life advice]
 ---
 
-In his essay, “Keep your identity small”, Paul Graham famously advises:
+In his essay, [“Keep your identity small”](http://www.paulgraham.com/identity.html), Paul Graham famously advises:
 
 > If people can't think clearly about anything that has become part of their identity, then all other things being equal, the best plan is to let as few things into your identity as possible. Most people reading this will already be fairly tolerant. But there is a step beyond thinking of yourself as x but tolerating y: not even to consider yourself an x. The more labels you have for yourself, the dumber they make you.
 
