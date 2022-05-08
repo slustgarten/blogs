@@ -7,3 +7,6 @@ comments: true
 tags: [NFT]
 ---
 
+## Minting an NFT on Opensea
+
+This is a short post documenting 
